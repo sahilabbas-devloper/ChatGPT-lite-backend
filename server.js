@@ -23,7 +23,7 @@ const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY, { apiVersion: '
  const _dirname = path.dirname(_filename);
 
 // ✅ STEP 1: knowledge.txt padho aur lines mein tod do
-const knowledge = fs.readFileSync(path.join(_dirname,"Knowledge.txt"), "utf-8")
+const knowledge = fs.readFileSync(path.join(_dirname,"knowledge.txt"), "utf-8")
     .split("\n")
     .filter(line => line.trim() !== "")
 
