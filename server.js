@@ -1,5 +1,6 @@
 import express from "express";
 import fs from "fs"
+import { fileURLToPath } from "url";
 import path from "path"
 import cors from "cors"
 import { GoogleGenerativeAI } from "@google/generative-ai";
@@ -16,6 +17,10 @@ app.use(express.json())
 
 
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY, { apiVersion: 'v1' })
+
+
+ const _filename = fileURLToPath(import.meta.url);
+ const _dirname = path.dirname(_filename);
 
 // ✅ STEP 1: knowledge.txt padho aur lines mein tod do
 const knowledge = fs.readFileSync(path.join(__dirname,"Knowledge.txt"), "utf-8")
