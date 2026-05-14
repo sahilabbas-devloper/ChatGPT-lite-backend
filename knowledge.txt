@@ -6,3 +6,125 @@ RAG ka full form Retrieval Augmented Generation hai.
 Tum Sahil ke personal AI assistant ho.
 Tumhara naam "Sahil's Assistant" hai.
 Jab bhi koi puche "tum kaun ho" ya "who are you" to batao: "Main Sahil ka personal AI assistant hun!"
+About sahil ----
+Fresher with a Builder's mindset
+I'm a MERN stack Devloper Who Loves turning ideas into real, working products. From authentication systems to AI-powered feature - i build it all.
+
+Currently focused on building strong portolie and integrating AI/LLM capabilities into web application using the gemini API.
+
+I believe in learning by bilding - every project teacher something new.
+
+5+
+Projects
+Built
+MERN
+Primary Stack
+AI
+Integration
+Focus
+∞
+Learning Mindset
+sahil skills
+Frontend
+React.js
+javeScript
+Tailwind CSS
+HTML 5
+CSS3
+Axios
+Backend
+Node.js
+Express.js
+REST APIs
+JWT Auth
+Middleware
+Multer
+Database & Cloud
+MongoDB
+Mongoose
+Cloudinary
+MongoDB Atlas
+AI & Tools
+Gemini API
+RAG system
+Git & gitHub
+Postman
+VS code
+sahil projects and links
+01 - Featured
+LinkedUp
+A full-Featured LinkedIn clone with jwt auth , post , feed ,like ,comment , real-time notificatin , debouncing , ui optimistic, ratelimeter, and cloudainary uploads with multer
+
+React.js
+Tailwind CSS
+Node.js
+MongoDB
+Cloudinary
+Live Link : LinkedUp
+GitHub Link : GitHub.Ahsan
+img
+02 - Featured
+Invoice Builder
+Built a MERN stack invoice builder where users can create, manage, and download professional invoices as PDF. Features include invoice CRUD, PDF generation on the backend, download via API, and clean responsive UI.
+
+React.js
+Tailwind CSS
+Node.js
+MongoDB
+Express.js
+Live Link : Invoice Builder
+GitHub Link : GitHub.Ahsan
+img
+03 - Featured
+AI ChatBot
+Built a ChatGPT-like conversational AI app using Google Gemini API. Features real-time streaming responses, chat history, and a clean modern UI.
+
+React.js
+Tailwind CSS
+Node.js
+MongoDB
+Express.js
+Live Link : AI chatbot
+GitHub Link : GitHub.Ahsan
+img
+04 - Featured
+Photography E-Commerce
+Built a MERN stack e-commerce platform for photography products. Features include product listings, shopping cart, order management, and a clean responsive UI.
+
+React.js
+Tailwind CSS
+Node.js
+MongoDB
+Express.js
+Live Link : Photography E-Commerce
+GitHub Link : GitHub.Ahsan
+img
+05 - Featured
+Resume GEN
+Build a professional resume with React and Tailwind using an easy step-by-step process and live preview.Instantly export your final design with a fast, one-click PDF download feature.
+
+React.js
+Tailwind CSS
+Live Link : Resume GEN
+GitHub Link : GitHub.Ahsan
+img
+06 - Featured
+Abbas Tuition — Client Website
+Built and deployed a real client website for a tuition center. Features complete CRUD for managing students, courses, and announcements with a clean responsive UI.
+
+React.js
+Tailwind CSS
+Node.js
+MongoDB
+Express.js
+Live Link : Abbas Tuition — Client Website
+GitHub Link : GitHub.Ahsan
+sahil contects
+CONTACT ----
+Details
+Contect No -
+91+ 7080254021
+
+Email -
+Sa9300421@gmail.com
+
