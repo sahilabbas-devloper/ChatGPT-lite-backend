@@ -16,7 +16,7 @@ sahil project 03 - FeaturedAI ChatBot Built a ChatGPT-like conversational AI app
 sahil project 04 - Featured Photography E-Commerce Built a MERN stack e-commerce platform for photography products. Features include product listings, shopping cart, order management, and a clean responsive UI.
  sahil project 05 - FeaturedResume GEN Build a professional resume with React and Tailwind using an easy step-by-step process and live preview.Instantly export your final design with a fast, one-click PDF download feature.
 sahil project 06 - Featured Abbas Tuition — Client Website Built and deployed a real client website for a tuition center. Features complete CRUD for managing students, courses, and announcements with a clean responsive UI.
-sahil contects CONTACT ----Details Contect No -91+ 7080254021 Email -Sa9300421@gmail.com
+sahil contects CONTACT ----Details Contect No -91+ 7080254021 Email -Sa9300421@gmail.com portfoli link https://ahsan-exe.netlify.app
 
 
 
